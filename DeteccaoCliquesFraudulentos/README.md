@@ -1,6 +1,6 @@
 # Detecção de Cliques Fraudulentos
 
-## Fonte de Dados
+## Fonte de Dados:
 Trabalho Realizado a partir de dados públicos disponibilizados no site de competições Kaggle.
 https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
 
