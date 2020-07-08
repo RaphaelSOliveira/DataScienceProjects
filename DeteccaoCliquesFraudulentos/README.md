@@ -1,7 +1,7 @@
 Trabalho Realizado a partir de dados públicos disponibilizados no site de competições Kaggle.
 https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
 
-Resumo:
+# Resumo:
 
 Este trabalho tem o objetivo de prever se um usuário fará o download de um aplicativo depois de clicar em um anúncio de aplicativo para celular.
 
