@@ -6,9 +6,6 @@ Os dados trabalhados nesse projeto são públicos. Eles foram retirados do site 
 Este site é amplamente utilizado por cientistas de dados que querem colocar o seu conhecimento à prova.
 Foi utilizado o dataset train_sample, que possui menos registros, pois não estou utilizando nenhuma técnica de Big Data.
 
-https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
-
-
 ## Resumo:
 
 ### O problema de negócio:
