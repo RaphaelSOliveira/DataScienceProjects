@@ -23,7 +23,7 @@ Criar um modelo de classificação que avaliará se um usuário fará o download
 
 ### Linguagem Utilizada:
 
-Este trabalho foi realizado com a linguagem R. Para detalhes de código acessar o link do github.
+Este trabalho foi realizado com a linguagem R.
 
 ## Conclusão:
 
