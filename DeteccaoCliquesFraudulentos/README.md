@@ -4,7 +4,7 @@
 
 Os dados trabalhados nesse projeto são públicos. Eles foram retirados do site [Kaggle](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data).
 Este site é amplamente utilizado por cientistas de dados que querem colocar o seu conhecimento à prova.
-Foi utilizado o dataset train_sample, que possui menos registros, pois não estou utilizando nenhuma técnica de Big Data.
+Foi utilizado o dataset train_sample, que possui menos registros, pois não estou utilizando nenhuma técnica de Big Data. Portanto, foi feita uma análise estatística inferencial.
 
 ## Resumo:
 
