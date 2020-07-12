@@ -19,7 +19,7 @@ IP que produzem muitos cliques, mas nunca acabam instalando aplicativos.
 
 ### Objetivo do Trabalho:
 
-Criar um modelo de classificação que avaliará se um usuário fará o download de um aplicativo depois de clicar em um anúncio de aplicativo para celular.
+A partir dos dados históricos criar um modelo de classificação que avalia se um usuário fará o download de um aplicativo para celular depois de clicar em um anúncio.
 
 ### Linguagem Utilizada:
 
@@ -27,4 +27,4 @@ Este trabalho foi realizado com a linguagem R.
 
 ## Conclusão:
 
-O modelo alcançou uma ótima acurácia permitindo a conclusão do projeto. As estapas de seleção de variáveis e de balanceamento do dataset foram de estrema importância para que o modelo preditivo tivesse uma boa taxa de acertos. Além disso, o algorítmo RandomForest se sobressaiu em relação ao SVM.
+O modelo alcançou uma média de acurácia de 95% permitindo a conclusão do projeto. As estapas de seleção de variáveis e de balanceamento do dataset foram de estrema importância para que o modelo preditivo tivesse uma boa taxa de acertos. Além disso, o algoritmo RandomForest se sobressaiu em relação ao SVM.
