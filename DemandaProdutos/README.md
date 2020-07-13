@@ -1,10 +1,24 @@
-Trabalho Realizado a partir de dados públicos disponibilizados no site de competições Kaggle. 
-https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data
+# Detecção de Cliques Fraudulentos
 
-Resumo:
+## Kaggle e Fonte de Dados
 
-Este trabalho tem o objetivo de desenvolver um modelo para prever com precisão a demanda de estoque com base em dados históricos de vendas.
+Os dados trabalhados nesse projeto são públicos. Eles foram retirados do site [Kaggle](https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data). Este site é amplamente utilizado por cientistas de dados que querem colocar o seu conhecimento à prova. Foi utilizada a técnica de estatística inferencial. A partir do dataset train.csv foi feita uma amostragem pois o data set original tem 3.2 GB e não estou utilizando nenhuma técnica de Big Data.
 
-O conjunto de dados que trabalhado consiste em 9 semanas de transações de vendas no México. Toda semana, existem caminhões de entrega que
-entregam produtos aos fornecedores. Cada transação consiste em vendas e devoluções. Os retornos são os produtos que não foram vendidos e expiraram.
-A demanda por um produto em uma determinada semana é definida como as vendas desta semana subtraídas pelo retorno na próxima semana.
+## Resumo:
+
+### O problema de negócio:
+
+A falta de precisão no cáculo da demanda de produtos gera desperdícios para a empresa. Os produtos podem tanto faltar acarretando a perda de um compra
+como podem estragar na prateleira. Como a empresa possui produtos com prazo de validade curtos, a margem aceitável para erro é pequena.
+
+### Objetivo do Trabalho:
+
+Criar modelo de regressão que seja capaz de estimar a demanda de forma precisa.
+
+### Linguagem Utilizada:
+
+Este trabalho foi realizado com a linguagem R.
+
+## Conclusão:
+
+O modelo alcançou uma média de acurácia de 99% permitindo a conclusão do projeto. O algoritmo de regressão linear se mostrou muito eficaz para este conjunto de dados.
