@@ -1,4 +1,4 @@
-# Detecção de Cliques Fraudulentos
+# Previsão de Demanda de Produtos
 
 ## Kaggle e Fonte de Dados
 
