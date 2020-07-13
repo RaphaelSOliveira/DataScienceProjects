@@ -237,7 +237,7 @@ confusionMatrix(best.test,test$is_attributed)
 
 # Chamando a Função para executar o registrar todos os resultados do modelo
 mult_rf <- nb_multiple_runs(train, 20)
-
+plot(mult_rf)
 # Média de acurácia do modelo
 summary(mult_rf)           
 
